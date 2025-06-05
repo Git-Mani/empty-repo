@@ -1,1 +1,1 @@
-Sample Text File 1: This is the first sample text file.
+Sample Text File 1: This is the first sample text file data.

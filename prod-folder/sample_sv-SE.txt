@@ -1,0 +1,1 @@
+Exempelfiltest för flerspråkig i18n

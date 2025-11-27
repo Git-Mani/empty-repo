@@ -1,1 +1,0 @@
-Test file di esempio per I18n multilingue

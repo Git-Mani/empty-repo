@@ -1,1 +1,0 @@
-Beispieldatei-Test für mehrsprachiges i18n

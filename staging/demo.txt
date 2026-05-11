@@ -1,1 +1,1 @@
-Hi this is sample file for translation.
+Hi this is sample file for translation data.

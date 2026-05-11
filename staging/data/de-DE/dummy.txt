@@ -1,1 +1,1 @@
-Hallo, dies ist eine Testdatei für Übersetzungsdaten.
+Hallo, dies ist eine Testdatei für ein Übersetzungsbeispiel.

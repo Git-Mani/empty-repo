@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi this is test file test.
+=======
+Hi this is test file data sample.
+>>>>>>> aef5eb6da2982fa3523bc3e3851445c3d7f769be

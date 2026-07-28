@@ -1,7 +1,7 @@
 {
   "externalConfigEnabled": true,
   "fileExtensions": {
-    "include": [".json"]
+    "include": []
   },
   "resetHistory": true
 }

@@ -1,1 +1,1 @@
-Questo è il contenuto del file di esempio numero 20.
+Questo è il contenuto del test del file di esempio numero 20.

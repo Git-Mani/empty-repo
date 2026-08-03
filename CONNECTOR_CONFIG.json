@@ -3,5 +3,5 @@
   "fileExtensions": {
     "include": []
   },
-  "resetHistory": true
+  "forceTranslateAll": true
 }

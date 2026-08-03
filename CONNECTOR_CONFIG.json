@@ -1,5 +1,5 @@
 {
-  "externalConfigEnabled": false,
+  "externalConfigEnabled": true,
   "fileExtensions": {
     "include": []
   },
